@@ -12,16 +12,19 @@
 
 
 
-
-- 🚨 My tech articles can be found at [Dev.to](https://dev.to/manojlingala) , leave a ❤ if you like it.
-- 🚀 When monotony sets in, I spice up my life at [HackerRank](https://www.hackerrank.com/lingalamanojred1?hr_r=1)
-
+- [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/manojlingala) is where you can find my tech articles, leave a ❤ if you like it.
+- 🚀 When monotony sets in, I spice up my life at  [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/lingalamanojred1?hr_r=1)
 
 
-**My-Skills:**
+Tools & Skills
+
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,dotnet,ts,cs,go,solidity,gitlab,githubactions,graphql,kafka,rabbitmq,redis,figma&perline=9)](https://skillicons.dev)
 
 
-[![My Skills](https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,dotnet,ts,cs,go,solidity,sqlite,mysql,postgres,dynamodb,gitlab,githubactions,graphql,kafka,rabbitmq,redis,figma&perline=6)](https://skillicons.dev)
+[![SQLite](https://img.shields.io/badge/SQLite-★★☆-lightgrey?labelColor=003B57&logo=SQLite&style=for-the-badge&logoColor=white)](https://www.sqlite.org/)
+[![postgreSQL](https://img.shields.io/badge/PostgreSQL-★★☆-lightgrey?labelColor=4169E1&logo=PostgreSQL&style=for-the-badge&logoColor=white)](https://www.postgresql.org/)
+[![mongoDB](https://img.shields.io/badge/MongoDB-★★☆-lightgrey?labelColor=47A248&logo=MongoDB&style=for-the-badge&logoColor=white)](https://www.mongodb.com/)
+[![DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-★★★-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Introduction.html)
 
 
 <!--
@@ -40,3 +43,5 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://app.daily.dev/mlingala"><img src="https://api.daily.dev/devcards/7ea655531c9149e9a241278c21d0d044.png?r=ona" width="400" alt="manoj lingala's Dev Card"/></a>
+
+
