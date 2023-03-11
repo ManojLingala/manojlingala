@@ -13,7 +13,7 @@
 
 
 
-- 🚨 My tech articles can be found at [Dev.to](https://dev.to/manojlingala)
+- 🚨 My tech articles can be found at [Dev.to](https://dev.to/manojlingala) , leave a ❤ if you like it.
 - 🚀 When monotony sets in, I spice up my life at [HackerRank](https://www.hackerrank.com/lingalamanojred1?hr_r=1)
 
 
